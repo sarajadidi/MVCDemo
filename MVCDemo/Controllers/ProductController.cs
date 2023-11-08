@@ -24,6 +24,12 @@ namespace MVCDemo.Controllers
 
             return View(products);
         }
+
+        public IActionResult ViewProduct(int id)
+        {
+            var product = _repo.GetProduct(id);
+            return View(product);
+        }
     }
 }
 
