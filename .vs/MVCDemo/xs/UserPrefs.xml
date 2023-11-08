@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="{C5B8342C-C49F-4F6C-BFC7-C5889D090BA5}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVCDemo/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="MVCDemo/Program.cs" Line="24" Column="44" />
+      <File FileName="MVCDemo/Models/Product.cs" Line="17" Column="6" />
+      <File FileName="MVCDemo/IProductRepo.cs" Line="8" Column="44" />
+      <File FileName="MVCDemo/ProductRepo.cs" Line="18" Column="56" />
+      <File FileName="MVCDemo/Views/Product/Index.cshtml" Line="26" Column="9" />
+      <File FileName="MVCDemo/Controllers/ProductController.cs" Line="24" Column="1" />
+      <File FileName="MVCDemo/appsettings.json" Line="1" Column="1" />
+      <File FileName="MVCDemo/Views/Shared/_Layout.cshtml" Line="29" Column="112" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="MVCDemo" expanded="True">
+            <Node name="MVCDemo">
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Product" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="MVCDemo" expanded="True">
+            <Node name="MVCDemo">
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Product" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MVCDemo PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
